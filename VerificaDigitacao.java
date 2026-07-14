@@ -1,6 +1,6 @@
 import java.lang.reflect.Method;
 
-public class Teste {
+public class VerificaDigitacao {
     public boolean funcoes(String metodo) {
         Class<?> classe = Aritmetica.class;
 
